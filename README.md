@@ -9,3 +9,4 @@ Projet simple: configuration de 2 LAN avec DHCP statique avec GNS3 et GNS3 VM. P
 ![App Screenshot](images/topology.png)
 ![App Screenshot](images/traffic_ping.png)
 ![App Screenshot](images/DHCP_DORA.png)
+![App Screenshot](images/Adressage_IP.png)
